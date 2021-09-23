@@ -1,0 +1,2 @@
+class AddProfileImageIdToBook < ApplicationRecord
+end
